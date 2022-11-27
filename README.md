@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sarozpradhan64@gmail.com**
 
-- ⚡ Fun fact **I think i am weird.**
+- ⚡ Fun fact **I think i am Full Stack Developer who knows HTML.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
