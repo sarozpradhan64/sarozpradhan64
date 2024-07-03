@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm @sarozpradhan64</h1>
 - 👨‍💻 All of my projects are available at my webiste (https://pradhansaroj.com.np)
 
-- 📝 I regularly write articles on [https://blazecodes.com](https://blazecodes.com)
+- 📝 I regularly write articles on [https://blazecodes.com](https://blazecodes.pradhansaroj.com.np)
 
 - 📫 How to reach me **sarozpradhan64@gmail.com**
 
@@ -10,7 +10,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/saroj-pradhan-the-vuer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="saroj-pradhan-the-vuer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saroj-pradhan-4628831a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saroj-pradhan-4628831a1" height="30" width="40" /></a>
 <a href="https://fb.com/srz.prdhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srz.prdhn" height="30" width="40" /></a>
 <a href="https://instagram.com/srz.prdhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srz.prdhn" height="30" width="40" /></a>
