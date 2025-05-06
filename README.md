@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://www.pradhansaroj.com.np/](https://www.pradhansaroj.com.np/)
+- 👨‍💻 All of my projects are available at [https://pradhansaroj.com.np/](https://www.pradhansaroj.com.np/)
 
 - 📝 I regularly write articles on [https://blazecodes.pradhansaroj.com.np/](https://blazecodes.pradhansaroj.com.np/)
 
