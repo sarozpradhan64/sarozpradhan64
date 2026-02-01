@@ -4,8 +4,6 @@
 
 - 👨‍💻 All of my projects are available at [https://pradhansaroj.com.np/](https://www.pradhansaroj.com.np/)
 
-- 📝 I regularly write articles on [https://blazecodes.pradhansaroj.com.np/](https://blazecodes.pradhansaroj.com.np/)
-
 - 💬 Ask me about **Django, Laravel, React**
 
 - 📫 How to reach me **sarozpradhan64@gmail.com**
